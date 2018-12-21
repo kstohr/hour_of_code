@@ -30,8 +30,8 @@ a {
 }
 
 a:hover,
-a:visited,
-a:focus {
+a:focus, 
+a:visited {
     color: #069;
     font-weight: bold
 }
