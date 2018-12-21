@@ -1,5 +1,5 @@
 # hour_of_code
 
 
-[HTML Holiday Card](hour_of_code_holiday_card.html)
+[HTML Holiday Card](index.html)
 
