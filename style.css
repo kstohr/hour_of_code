@@ -24,6 +24,11 @@ h2 {
   text-transform: uppercase; 
 }
 
+a {
+  color: #267CB9;
+  text-decoration: none
+}
+
 div.intro {
     font-weight: 500;
     font-size: 16px;
